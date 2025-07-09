@@ -10,7 +10,7 @@ How to Download and Install Norton on Windows
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_23.png
    :width: 350px
    :align: center
    :height: 100px
